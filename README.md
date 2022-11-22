@@ -1,6 +1,7 @@
 # [Important and Useful links from all over the LeetCode by deepika135](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 
-[Format Your Posts with Markdown](https://cutt.ly/2R4NUoT)
+## Formatting your posts in LeetCode
+* [Format Your Posts with Markdown](https://cutt.ly/2R4NUoT)
 
 ## Dynamic Programming
 * [DP for Beginners [Problems | Patterns | Sample Solutions] by @wh0ami](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
