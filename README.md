@@ -19,12 +19,12 @@
 * [Dynamic Programming on subsets with examples by @DBabichev](https://leetcode.com/discuss/general-discussion/1125779/Dynamic-programming-on-subsets-with-examples-explained)
 * [DP is easy (Thinking process) by @teampark](https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions)
 
-## Backtracking :
+## Backtracking
 * [Backtracking Summary and general template to solve many problems by @dichen001](https://leetcode.com/problems/permutations/discuss/18284/Backtrack-Summary:-General-Solution-for-10-Questionsh)
 * [A general approach to backtracking problems in C++ by @nitinpaldev](https://leetcode.com/discuss/general-discussion/680269/a-general-approach-to-backtracking-problems-in-cexhaustive-searching)
 * [A general approach to backtracking problems in Java by @issac3](https://leetcode.com/problems/permutations/discuss/18239/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partioning)
 
-## General Strategies and advice :
+## General Strategies and advice
 * [Comprehensive Data Structure and Algorithm Study Guide by @xrssa](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 * [Interview prep tips by @topcat](https://leetcode.com/discuss/career/216554/from-0-to-clearing-uberappleamazonlinkedingoogle)
 * [How to answer some beahvioural questions by Anonymous user](https://leetcode.com/discuss/interview-experience/1532708/tips-for-answering-few-tricky-behavioural-interview-questions)
