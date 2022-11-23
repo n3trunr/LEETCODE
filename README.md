@@ -83,7 +83,7 @@
 * [Binary Search 101 by @AminiCK]()
 * [Master binary search from beginner to pro by Anonymous User]()
 
-## Approaches to deal with problems which follow some pattern :
+## Approaches to deal with problems which follow some pattern
 * [Most consistent ways of dealing with the series of stock problems by @fun4LeetCode]()
 * [Sum Megapost (How to solve 2 sum, 3 sum and 4 sum) by @peyman_np]()
 * [How to solve linked list problems in C++ by @LHearen]()
